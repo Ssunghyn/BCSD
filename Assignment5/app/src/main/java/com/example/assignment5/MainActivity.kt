@@ -45,7 +45,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
             layout_draw.closeDrawers()
         }
         else{
-        super.onBackPressed()
+            super.onBackPressed()
         }
     }
 }
