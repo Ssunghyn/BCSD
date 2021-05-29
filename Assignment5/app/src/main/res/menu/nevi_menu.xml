@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/A"
+            android:icon="@drawable/ic_baseline_looks_one_24"
+            android:title="A: LIst"/>
+
+        <item android:id="@+id/B"
+            android:icon="@drawable/ic_baseline_looks_two_24"
+            android:title="B: Calculator"/>
+
+    </group>
+</menu>
