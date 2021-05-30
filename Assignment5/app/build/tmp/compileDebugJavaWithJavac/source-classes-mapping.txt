@@ -1,0 +1,2 @@
+com/example/assignment5/BuildConfig.java
+ com.example.assignment5.BuildConfig
