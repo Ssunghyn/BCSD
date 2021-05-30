@@ -1,0 +1,4 @@
+#Sun May 30 15:34:56 KST 2021
+base.0=D\:\\BCSD\\Assigments\\Assignment5\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
