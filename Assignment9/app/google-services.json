@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527894158801",
+    "project_id": "bcsd-assignment9",
+    "storage_bucket": "bcsd-assignment9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527894158801:android:c290bc7f83e11904ae54f0",
+        "android_client_info": {
+          "package_name": "com.example.assignment9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527894158801-cntq4ocj6t49fkrcmregs7p2p3q6vlf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3tRJ7tZ9q0NzuEuiMvptUcuLg4MRyCXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527894158801-cntq4ocj6t49fkrcmregs7p2p3q6vlf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
